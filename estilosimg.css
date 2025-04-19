@@ -1,0 +1,9 @@
+img {
+    width: 50%; /* Ancho de la imagen */
+    height: auto; /* Altura automática para mantener la proporción */
+    border-radius:20px; /* Bordes redondeados */
+    box-shadow: 0 6px 10px rgba(95, 206, 20, 0.773); /* Sombra de la imagen */
+    opacity:0.5;   /* Opacidad de la imagen */
+    border: 2px solid #e60d0d; /* Borde de la imagen */
+         
+}
